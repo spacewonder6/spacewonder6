@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spacewonder6
 - 👀 I’m interested in videos games and programming.
-- 🌱 I’m currently learning HTML/CSS/Javascript, Python and C#
+- 🌱 I’m currently learning Godot's programing language.
 - 📫 How to reach me : Discord : spacewonder6
 - 😄 Pronouns: Any pronouns
 
